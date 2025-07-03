@@ -1,0 +1,3 @@
+[submodule "polkadot-js-apps"]
+	path = polkadot-js-apps
+	url = git@github.com:everyprotocol/polkadot-js-apps.git
